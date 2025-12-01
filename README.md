@@ -31,7 +31,7 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
   Confirmación del registro y envío de correo.
 
 <!-- Inserta imagen POST registro -->
-![Registro](./imagenes/registro.png)
+![Registro](https://github.com/NicolasCh25/tesisback/blob/main/registro.png?raw=true)
 
 ---
 
