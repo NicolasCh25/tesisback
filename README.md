@@ -59,7 +59,7 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
   Mensaje confirmando envío de correo.
 
 <!-- Inserta imagen POST recuperarpassword -->
-![Recuperar Password]([./imagenes/recuperarpassword.png](https://github.com/NicolasCh25/tesisback/blob/main/recuperarpassword.png?raw=true))
+![Recuperar Password](https://github.com/NicolasCh25/tesisback/blob/main/recuperarpassword.png?raw=true)
 
 ---
 
