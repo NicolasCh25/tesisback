@@ -30,7 +30,6 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
 - **Respuesta:**  
   Confirmación del registro y envío de correo.
 
-<!-- Inserta imagen POST registro -->
 ![Registro](https://github.com/NicolasCh25/tesisback/blob/main/registro.png?raw=true)
 
 ---
@@ -44,9 +43,6 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
 - **Respuesta:**  
   Confirmación de cuenta activada.
 
-<!-- Inserta imagen GET confirmar -->
-![Confirmar Cuenta](./imagenes/confirmar.png)
-
 ---
 
 ### 3. POST `/recuperarpassword`
@@ -58,7 +54,6 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
 - **Respuesta:**  
   Mensaje confirmando envío de correo.
 
-<!-- Inserta imagen POST recuperarpassword -->
 ![Recuperar Password](https://github.com/NicolasCh25/tesisback/blob/main/recuperarpassword.png?raw=true)
 
 ---
@@ -71,9 +66,6 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
   `:token` recibido por correo.  
 - **Respuesta:**  
   Confirmación o error de validación.
-
-<!-- Inserta imagen GET comprobar token -->
-![Comprobar Token Password](./imagenes/comprobartokenpassword.png)
 
 ---
 
@@ -88,7 +80,6 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
 - **Respuesta:**  
   Confirmación de cambio exitoso.
 
-<!-- Inserta imagen POST nuevopassword -->
 ![Nuevo Password](https://github.com/NicolasCh25/tesisback/blob/main/nuevopassword.png?raw=true)
 
 ---
@@ -102,7 +93,6 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
 - **Respuesta:**  
   Token JWT y datos del administrador.
 
-<!-- Inserta imagen POST login -->
 ![Login Administrador](https://github.com/NicolasCh25/tesisback/blob/main/login.png?raw=true)
 
 ---
@@ -115,9 +105,6 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
   Token JWT en autorización.  
 - **Respuesta:**  
   Datos del perfil.
-
-<!-- Inserta imagen GET perfil -->
-![Perfil Administrador](./imagenes/perfil.png)
 
 ---
 
@@ -134,7 +121,6 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
 - **Respuesta:**  
   Confirmación de actualización.
 
-<!-- Inserta imagen PUT actualizar perfil -->
 ![Actualizar Perfil](https://github.com/NicolasCh25/tesisback/blob/main/actperfil.png?raw=true)
 
 ---
@@ -151,9 +137,6 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
   Token JWT en autorización.  
 - **Respuesta:**  
   Confirmación de cambio de contraseña.
-
-<!-- Inserta imagen PUT actualizar password -->
-![Actualizar Password](./imagenes/actualizarpassword.png)
 
 ---
 
@@ -172,6 +155,13 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
 - Carpeta `routes/` para definir rutas.  
 - Controladores para manejar la lógica de cada funcionalidad.  
 - Middleware para verificar tokens JWT y seguridad.  
+
+---
+
+## 🌐 Despliegue
+
+El proyecto se encuentra desplegado y accesible en la siguiente URL:  
+[https://guileless-arithmetic-8d974a.netlify.app/](https://guileless-arithmetic-8d974a.netlify.app/)
 
 ---
 
