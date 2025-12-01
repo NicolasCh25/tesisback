@@ -89,7 +89,7 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
   Confirmación de cambio exitoso.
 
 <!-- Inserta imagen POST nuevopassword -->
-![Nuevo Password](./imagenes/nuevopassword.png)
+![Nuevo Password](https://github.com/NicolasCh25/tesisback/blob/main/nuevopassword.png?raw=true)
 
 ---
 
