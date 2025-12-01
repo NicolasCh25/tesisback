@@ -135,7 +135,7 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
   Confirmación de actualización.
 
 <!-- Inserta imagen PUT actualizar perfil -->
-![Actualizar Perfil](./imagenes/actualizarperfil.png)
+![Actualizar Perfil](https://github.com/NicolasCh25/tesisback/blob/main/actperfil.png?raw=true)
 
 ---
 
