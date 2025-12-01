@@ -103,7 +103,7 @@ Este proyecto implementa una API backend para gestión de usuarios que incluye r
   Token JWT y datos del administrador.
 
 <!-- Inserta imagen POST login -->
-![Login Administrador](./imagenes/login.png)
+![Login Administrador]([./imagenes/login.png](https://github.com/NicolasCh25/tesisback/blob/main/login.png?raw=true))
 
 ---
 
